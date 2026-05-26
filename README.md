@@ -9,7 +9,8 @@ This project analyzes **Diwali Festival Sales Data** to understand customer purc
 
 ##  Dashboard Preview
 
-![Diwali Sales Dashboard](./diwali_sales_dashboard.png) 
+<img width="1337" height="738" alt="diwali_sales_dashboard" src="https://github.com/user-attachments/assets/2642b3f9-f445-4a9e-8b6f-981426bd8cbc" />
+
 
 ---
 
