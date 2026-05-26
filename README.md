@@ -8,13 +8,8 @@ This project analyzes **Diwali Festival Sales Data** to understand customer purc
 ---
 
 ##  Dashboard Preview
-*(Below is the screenshot of the interactive Power BI dashboard designed for this project)*
 
 ![Diwali Sales Dashboard](./diwali_sales_dashboard.png) 
-*(Note: Rename your uploaded screenshot file to diwali_sales_dashboard.png in GitHub to see it here)*
-
-👉 **[Click Here to Download Dashboard PDF](./diwali_sales_analysis_dashboard.pdf)** 
-*(Note: Rename your uploaded PDF file to diwali_sales_analysis_dashboard.pdf to activate this link)*
 
 ---
 
@@ -31,12 +26,6 @@ This project analyzes **Diwali Festival Sales Data** to understand customer purc
 *   **Data Source:** Diwali Sales Dataset (CSV format)
 *   **Data Cleaning:** Power Query & Microsoft Excel (Handled empty cells/null values and fixed data types)
 *   **Interactivity:** Dynamic Slicers (Filters) for Zones, States, and Occupations
-
----
-
-##  How to View
-1. Download the `.pbix` project file or the PDF report from this repository.
-2. Open the file in **Power BI Desktop** to interact with the live dashboard and charts.
 
 ---
 
